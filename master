@@ -1,0 +1,46 @@
+Got it — here's the **emoji-free** version of the call to action:
+
+---
+
+## **Call to Action: Help Update FM24 with FM26 Stats**
+
+**What’s this?**
+We’re backporting **FM26 player stats** into **FM24**.
+I’ve already updated **Chelsea FC**, and I’ll soon be working on **Arsenal**.
+You can contribute by updating **any club** with the **FM26 stats**.
+Once you’ve completed your edits, push them to the repo, and I’ll merge them into the **master file**!
+
+**How to Contribute**
+
+1. Clone the repo and **edit your club’s stats** using the **FM Editor**.
+2. Save your changes as `<club>_update.fmf` (e.g., `chelsea_update.fmf`).
+3. Push your changes to GitHub, and I’ll merge them into the master file!
+4. **Stay updated** — I’ll constantly be merging and pushing the master file.
+
+**Download** the latest update in the repo!
+**Edit** any club/league stats you want!
+**Push** your changes and get your name in the credits!
+
+Let’s keep FM24 fresh with FM26 realism!
+
+---
+
+### Example Post (for Reddit/Discord/Twitter):
+
+```
+Want to make FM24 feel like FM26?  
+Help update player stats for clubs! I’ve already done Chelsea and Arsenal—now it’s your turn!  
+Fork this repo, edit your club's stats, and push it back for me to merge.  
+Let’s build the most realistic FM24 experience together!  
+Repo: <repo link>
+```
+
+---
+
+Now it’s ready for a straightforward call to action without any emojis!
+
+
+if you dont undesrand what stuff like clone repo mean use ai. or better yet just downaod the .fmf file load i nto the editor and edit away. 
+
+Alright, my reasoning behind doing something like this is that most of the people who are making content or making these updates have stopped ever since the release of FM26. And I like playing with standardized stats, so I like the FM26 stats, but I don't like the interface. Every time there's a new interface, I really don't like it ever since FM12, to be honest with you. But I do recognize that in the future I'm going to have to, you know, be comfortable with it. But I've used FM24 for, let's face it, two to three years, so I'd rather use it and skip over FM26, but I bought the FM26 game at the start. If you guys want, I can just send screenshots too, but that's a bit tedious. I'd rather, I'd much rather, um, I'd much rather you guys who own FM26 also edit this FM24 save file and we can merge it together. So far, Chelsea done, like I said. Well, Chelsea not fully done because it's very, very tedious because you have to memorize 75 players. It's going to take an hour to do one team. I mean, there's probably a way to automate it, but I think this is just simpler because it's, I like doing it, to be honest with you. I'll probably eventually finish doing everything, but it'll probably take me a month. But if there were 20 people like me, this could take one day. So let's get it to, let's get it going, guys.
+here is the gofile
